@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <!-- <img src="./assets/VEnterpriseRoundNoText.png"> -->
-    <p>Hello?</p>
+    <p>Hello World</p>
     <router-view/>
   </div>
 </template>
