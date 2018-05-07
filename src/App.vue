@@ -1,6 +1,7 @@
 <template>
   <div id="app">
-    <img src="./assets/logo.png">
+    <!-- <img src="./assets/VEnterpriseRoundNoText.png"> -->
+    <p>Hello?</p>
     <router-view/>
   </div>
 </template>
@@ -8,7 +9,7 @@
 <script>
 export default {
   name: 'App',
-};
+}
 </script>
 
 <style>
